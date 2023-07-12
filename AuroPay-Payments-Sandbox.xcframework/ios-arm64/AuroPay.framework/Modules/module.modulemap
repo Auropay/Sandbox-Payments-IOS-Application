@@ -1,0 +1,11 @@
+framework module AuroPay {
+  umbrella header "AuroPay.h"
+
+  export *
+  module * { export * }
+}
+
+module AuroPay.Swift {
+  header "AuroPay-Swift.h"
+  requires objc
+}
