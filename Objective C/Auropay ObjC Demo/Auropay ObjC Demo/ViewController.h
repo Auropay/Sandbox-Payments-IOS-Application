@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <Auropay/Auropay-Swift.h>
+#import <AuroPayPaymentsSandbox/AuroPayPaymentsSandbox-Swift.h>
 
 @interface ViewController : UIViewController<APPaymentCompletionProtocol>
 

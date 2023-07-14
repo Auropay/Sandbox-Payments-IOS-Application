@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "auropay-payments-sandbox"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "AuroPay's Payments SDK"
   spec.description  = <<-DESC
 	AuroPay is a Digital Platform that offers a bouquet of E-PAYMENT options to Receive Payments in SAFE, SECURE and USER-FRIENDLY Manner. The aim is to become a one stop shop, offering a wide range of services in the payment ecosystem globally, catering to the e-commerce businesses as well as the SMEs which are rapidly adopting digital technologies.
@@ -24,7 +24,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "13.0"
 
   spec.source       = { :git => "https://github.com/Auropay/Sandbox-Payments-IOS-Application.git", :tag => "#{spec.version}" }
-  spec.vendored_frameworks    = "AuroPay-Payments-Sandbox.xcframework"
+  spec.vendored_frameworks    = "AuroPayPaymentsSandbox.xcframework"
   spec.swift_version        = "5.7.1"
 
 end

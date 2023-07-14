@@ -6,7 +6,7 @@
 //
 
 #import "ViewController.h"
-#import <AuroPay/AuroPay-Swift.h>
+#import <AuroPayPaymentsSandbox/AuroPayPaymentsSandbox-Swift.h>
 
 @interface ViewController ()
 
