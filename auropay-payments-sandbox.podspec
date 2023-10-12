@@ -26,6 +26,5 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/Auropay/Sandbox-Payments-IOS-Application.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks    = "AuroPayPaymentsSandbox.xcframework"
   spec.swift_version        = "5.7.1"
-  spec.dependency 'activesupport', '7.0.8'
 
 end
