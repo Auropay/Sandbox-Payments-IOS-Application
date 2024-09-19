@@ -1,0 +1,15 @@
+{
+  "originHash" : "d3b5444e5831312df0d46140e8407cacdf6b489e9c787b360c4bb474adc7c12c",
+  "pins" : [
+    {
+      "identity" : "sandbox-auropay-payments-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Auropay/Sandbox-Auropay-Payments-SPM",
+      "state" : {
+        "revision" : "949b1ffaebfab86022e5c4c83de075c3769ee8e3",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}

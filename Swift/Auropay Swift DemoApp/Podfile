@@ -7,5 +7,6 @@ target 'Auropay Swift DemoApp' do
 
   # Pods for Auropay Swift DemoApp
  pod 'IQKeyboardManagerSwift'
+# pod 'auropay-payments-sandbox', '1.1.1'
 
 end

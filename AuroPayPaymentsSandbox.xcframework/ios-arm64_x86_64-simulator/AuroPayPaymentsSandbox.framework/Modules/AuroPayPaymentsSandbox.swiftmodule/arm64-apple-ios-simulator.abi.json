@@ -14315,7 +14315,7 @@
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard+Extension.swift",
       "kind": "BooleanLiteral",
-      "offset": 2635,
+      "offset": 2628,
       "length": 4,
       "value": "true"
     },
@@ -19670,7 +19670,7 @@
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeViewModel+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 25340,
+      "offset": 25333,
       "length": 1,
       "value": "0"
     },
@@ -24773,217 +24773,217 @@
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "BooleanLiteral",
-      "offset": 3070,
+      "offset": 3122,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "StringLiteral",
-      "offset": 3125,
+      "offset": 3177,
       "length": 9,
       "value": "\"#000000\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 3155,
+      "offset": 3207,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 3250,
+      "offset": 3302,
       "length": 4,
       "value": "10.5"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 3272,
+      "offset": 3324,
       "length": 4,
       "value": "12.5"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 3579,
+      "offset": 3624,
       "length": 4,
       "value": "17.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 3586,
+      "offset": 3631,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 4103,
+      "offset": 4141,
       "length": 4,
       "value": "10.5"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 4125,
+      "offset": 4163,
       "length": 4,
       "value": "12.5"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 4812,
+      "offset": 4850,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 5187,
+      "offset": 5225,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 5552,
+      "offset": 5590,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 5916,
+      "offset": 5954,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 6630,
+      "offset": 6668,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 7079,
+      "offset": 7117,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 7374,
+      "offset": 7412,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 8223,
+      "offset": 8254,
       "length": 5,
       "value": "-1000"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "BooleanLiteral",
-      "offset": 8412,
+      "offset": 8443,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 9450,
+      "offset": 9481,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 9718,
+      "offset": 9749,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 9757,
+      "offset": 9788,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "BooleanLiteral",
-      "offset": 9890,
+      "offset": 9921,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 10159,
+      "offset": 10190,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "BooleanLiteral",
-      "offset": 10205,
+      "offset": 10236,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "BooleanLiteral",
-      "offset": 10580,
+      "offset": 10611,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "BooleanLiteral",
-      "offset": 10925,
+      "offset": 10956,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "BooleanLiteral",
-      "offset": 11176,
+      "offset": 11207,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "IntegerLiteral",
-      "offset": 11776,
+      "offset": 11807,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 11837,
+      "offset": 11868,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "BooleanLiteral",
-      "offset": 11888,
+      "offset": 11919,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard.swift",
       "kind": "FloatLiteral",
-      "offset": 12549,
+      "offset": 12580,
       "length": 3,
       "value": "5.0"
     },
@@ -29743,539 +29743,546 @@
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4009,
+      "offset": 4004,
+      "length": 24,
+      "value": "\"str_ap_authcode_copied\""
+    },
+    {
+      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 4068,
       "length": 29,
       "value": "\"str_ap_order_details_copied\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4076,
+      "offset": 4135,
       "length": 27,
       "value": "\"str_ap_processing_payment\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4127,
+      "offset": 4186,
       "length": 13,
       "value": "\"str_ap_date\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4166,
+      "offset": 4225,
       "length": 15,
       "value": "\"str_ap_status\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4207,
+      "offset": 4266,
       "length": 15,
       "value": "\"str_ap_reason\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4263,
+      "offset": 4322,
       "length": 30,
       "value": "\"str_ap_saved_payment_options\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4317,
+      "offset": 4376,
       "length": 13,
       "value": "\"str_ap_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4367,
+      "offset": 4426,
       "length": 26,
       "value": "\"str_ap_provide_valid_cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4422,
+      "offset": 4481,
       "length": 18,
       "value": "\"str_ap_save_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4483,
+      "offset": 4542,
       "length": 32,
       "value": "\"str_ap_save_card_other_country\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4546,
+      "offset": 4605,
       "length": 20,
       "value": "\"str_ap_save_upi_id\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4602,
+      "offset": 4661,
       "length": 25,
       "value": "\"str_ap_mandatory_symbol\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4661,
+      "offset": 4720,
       "length": 23,
       "value": "\"str_ap_field_required\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4722,
+      "offset": 4781,
       "length": 27,
       "value": "\"str_ap_share_your_details\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4782,
+      "offset": 4841,
       "length": 22,
       "value": "\"str_ap_scan_add_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4847,
+      "offset": 4906,
       "length": 32,
       "value": "\"str_ap_palce_card_in_white_box\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4921,
+      "offset": 4980,
       "length": 26,
       "value": "\"str_ap_save_card_and_pay\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4985,
+      "offset": 5044,
       "length": 27,
       "value": "\"str_ap_pay_without_saving\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5046,
+      "offset": 5105,
       "length": 23,
       "value": "\"str_ap_save_your_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5108,
+      "offset": 5167,
       "length": 28,
       "value": "\"str_ap_avoid_enter_details\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5173,
+      "offset": 5232,
       "length": 26,
       "value": "\"str_ap_faster_experience\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5240,
+      "offset": 5299,
       "length": 30,
       "value": "\"str_ap_advance_RBI_guideline\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5304,
+      "offset": 5363,
       "length": 23,
       "value": "\"str_ap_as_RBI_details\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5373,
+      "offset": 5432,
       "length": 35,
       "value": "\"Key_ReferenceNumberShouldBeUnique\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5454,
+      "offset": 5513,
       "length": 20,
       "value": "\"Key_CardNotAllowed\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5521,
+      "offset": 5580,
       "length": 14,
       "value": "\"search_banks\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5561,
+      "offset": 5620,
       "length": 16,
       "value": "\"search_wallets\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5600,
+      "offset": 5659,
       "length": 13,
       "value": "\"card_number\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5640,
+      "offset": 5699,
       "length": 17,
       "value": "\"expiry_validity\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5673,
+      "offset": 5732,
       "length": 5,
       "value": "\"cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5701,
+      "offset": 5760,
       "length": 14,
       "value": "\"name_on_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5780,
+      "offset": 5839,
       "length": 34,
       "value": "\"please_check_internet_connection\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5839,
+      "offset": 5898,
       "length": 14,
       "value": "\"unauthorized\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5874,
+      "offset": 5933,
       "length": 24,
       "value": "\"please_try_again_later\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5922,
+      "offset": 5981,
       "length": 15,
       "value": "\"no_data_found\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5984,
+      "offset": 6043,
       "length": 36,
       "value": "\"str_ap_unable_to_connect_to_server\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6056,
+      "offset": 6115,
       "length": 25,
       "value": "\"str_ap_connection_error\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6113,
+      "offset": 6172,
       "length": 21,
       "value": "\"str_ap_server_error\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6184,
+      "offset": 6243,
       "length": 39,
       "value": "\"str_ap_we_are_facing_technical_issues\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6288,
+      "offset": 6347,
       "length": 22,
       "value": "\"str_ap_invalid_email\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6348,
+      "offset": 6407,
       "length": 27,
       "value": "\"str_ap_invalid_percentage\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6403,
+      "offset": 6462,
       "length": 19,
       "value": "\"enter_valid_email\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6455,
+      "offset": 6514,
       "length": 25,
       "value": "\"enter_valid_card_number\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6504,
+      "offset": 6563,
       "length": 14,
       "value": "\"invalid_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6545,
+      "offset": 6604,
       "length": 24,
       "value": "\"incomplete_card_number\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6598,
+      "offset": 6657,
       "length": 20,
       "value": "\"enter_valid_expiry\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6646,
+      "offset": 6705,
       "length": 25,
       "value": "\"enter_valid_expiry_date\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6710,
+      "offset": 6769,
       "length": 28,
       "value": "\"str_ap_invalid_expiry_date\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6764,
+      "offset": 6823,
       "length": 17,
       "value": "\"enter_valid_cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6804,
+      "offset": 6863,
       "length": 13,
       "value": "\"invalid_cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6838,
+      "offset": 6897,
       "length": 11,
       "value": "\"enter_cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6900,
+      "offset": 6959,
       "length": 40,
       "value": "\"str_ap_could_not_fetch_convenience_fee\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6972,
+      "offset": 7031,
       "length": 24,
       "value": "\"enter_card_holder_name\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7027,
+      "offset": 7086,
       "length": 23,
       "value": "\"unable_to_verify_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7093,
+      "offset": 7152,
       "length": 37,
       "value": "\"unable_to_verify_card_network_error\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7170,
+      "offset": 7229,
       "length": 29,
       "value": "\"str_ap_invalid_expiry_month\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7235,
+      "offset": 7294,
       "length": 25,
       "value": "\"str_ap_card_has_expired\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7299,
+      "offset": 7358,
       "length": 28,
       "value": "\"str_ap_invalid_expiry_year\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7360,
+      "offset": 7419,
       "length": 22,
       "value": "\"str_ap_verify_upi_id\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7439,
+      "offset": 7498,
       "length": 46,
       "value": "\"str_ap_unable_to_verify_upi_moment_try_again\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7525,
+      "offset": 7584,
       "length": 29,
       "value": "\"str_ap_unable_to_verify_upi\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7597,
+      "offset": 7656,
       "length": 32,
       "value": "\"str_ap_unable_to_verify_upi_id\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7664,
+      "offset": 7723,
       "length": 24,
       "value": "\"str_ap_enter_valid_upi\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7726,
+      "offset": 7785,
       "length": 27,
       "value": "\"str_ap_open_preferred_upi\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7810,
+      "offset": 7869,
       "length": 46,
       "value": "\"str_ap_having_trouble_processing_request_now\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7894,
+      "offset": 7953,
       "length": 27,
       "value": "\"str_ap_transaction_failed\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7967,
+      "offset": 8026,
       "length": 35,
       "value": "\"str_ap_unsupported_payment_method\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8040,
+      "offset": 8099,
       "length": 27,
       "value": "\"str_ap_no_internet_access\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8119,
+      "offset": 8178,
       "length": 41,
       "value": "\"str_ap_service_request_should_not_empty\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8197,
+      "offset": 8256,
       "length": 26,
       "value": "\"str_ap_device_jailbroken\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8260,
+      "offset": 8319,
       "length": 26,
       "value": "\"str_ap_simulator_message\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8319,
+      "offset": 8378,
       "length": 22,
       "value": "\"str_ap_update_needed\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8380,
+      "offset": 8439,
       "length": 28,
       "value": "\"str_ap_unsupported_os_desc\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8447,
+      "offset": 8506,
       "length": 28,
       "value": "\"str_ap_sdk_deprecated_desc\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8515,
+      "offset": 8574,
       "length": 29,
       "value": "\"str_ap_sdk_new_version_desc\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8582,
+      "offset": 8641,
       "length": 20,
       "value": "\"Simulator Detected\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8640,
+      "offset": 8699,
       "length": 20,
       "value": "\"Jailbreak Detected\""
     },
@@ -30842,539 +30849,546 @@
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4009,
+      "offset": 4004,
+      "length": 24,
+      "value": "\"str_ap_authcode_copied\""
+    },
+    {
+      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 4068,
       "length": 29,
       "value": "\"str_ap_order_details_copied\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4076,
+      "offset": 4135,
       "length": 27,
       "value": "\"str_ap_processing_payment\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4127,
+      "offset": 4186,
       "length": 13,
       "value": "\"str_ap_date\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4166,
+      "offset": 4225,
       "length": 15,
       "value": "\"str_ap_status\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4207,
+      "offset": 4266,
       "length": 15,
       "value": "\"str_ap_reason\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4263,
+      "offset": 4322,
       "length": 30,
       "value": "\"str_ap_saved_payment_options\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4317,
+      "offset": 4376,
       "length": 13,
       "value": "\"str_ap_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4367,
+      "offset": 4426,
       "length": 26,
       "value": "\"str_ap_provide_valid_cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4422,
+      "offset": 4481,
       "length": 18,
       "value": "\"str_ap_save_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4483,
+      "offset": 4542,
       "length": 32,
       "value": "\"str_ap_save_card_other_country\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4546,
+      "offset": 4605,
       "length": 20,
       "value": "\"str_ap_save_upi_id\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4602,
+      "offset": 4661,
       "length": 25,
       "value": "\"str_ap_mandatory_symbol\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4661,
+      "offset": 4720,
       "length": 23,
       "value": "\"str_ap_field_required\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4722,
+      "offset": 4781,
       "length": 27,
       "value": "\"str_ap_share_your_details\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4782,
+      "offset": 4841,
       "length": 22,
       "value": "\"str_ap_scan_add_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4847,
+      "offset": 4906,
       "length": 32,
       "value": "\"str_ap_palce_card_in_white_box\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4921,
+      "offset": 4980,
       "length": 26,
       "value": "\"str_ap_save_card_and_pay\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 4985,
+      "offset": 5044,
       "length": 27,
       "value": "\"str_ap_pay_without_saving\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5046,
+      "offset": 5105,
       "length": 23,
       "value": "\"str_ap_save_your_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5108,
+      "offset": 5167,
       "length": 28,
       "value": "\"str_ap_avoid_enter_details\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5173,
+      "offset": 5232,
       "length": 26,
       "value": "\"str_ap_faster_experience\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5240,
+      "offset": 5299,
       "length": 30,
       "value": "\"str_ap_advance_RBI_guideline\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5304,
+      "offset": 5363,
       "length": 23,
       "value": "\"str_ap_as_RBI_details\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5373,
+      "offset": 5432,
       "length": 35,
       "value": "\"Key_ReferenceNumberShouldBeUnique\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5454,
+      "offset": 5513,
       "length": 20,
       "value": "\"Key_CardNotAllowed\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5521,
+      "offset": 5580,
       "length": 14,
       "value": "\"search_banks\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5561,
+      "offset": 5620,
       "length": 16,
       "value": "\"search_wallets\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5600,
+      "offset": 5659,
       "length": 13,
       "value": "\"card_number\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5640,
+      "offset": 5699,
       "length": 17,
       "value": "\"expiry_validity\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5673,
+      "offset": 5732,
       "length": 5,
       "value": "\"cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5701,
+      "offset": 5760,
       "length": 14,
       "value": "\"name_on_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5780,
+      "offset": 5839,
       "length": 34,
       "value": "\"please_check_internet_connection\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5839,
+      "offset": 5898,
       "length": 14,
       "value": "\"unauthorized\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5874,
+      "offset": 5933,
       "length": 24,
       "value": "\"please_try_again_later\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5922,
+      "offset": 5981,
       "length": 15,
       "value": "\"no_data_found\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 5984,
+      "offset": 6043,
       "length": 36,
       "value": "\"str_ap_unable_to_connect_to_server\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6056,
+      "offset": 6115,
       "length": 25,
       "value": "\"str_ap_connection_error\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6113,
+      "offset": 6172,
       "length": 21,
       "value": "\"str_ap_server_error\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6184,
+      "offset": 6243,
       "length": 39,
       "value": "\"str_ap_we_are_facing_technical_issues\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6288,
+      "offset": 6347,
       "length": 22,
       "value": "\"str_ap_invalid_email\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6348,
+      "offset": 6407,
       "length": 27,
       "value": "\"str_ap_invalid_percentage\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6403,
+      "offset": 6462,
       "length": 19,
       "value": "\"enter_valid_email\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6455,
+      "offset": 6514,
       "length": 25,
       "value": "\"enter_valid_card_number\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6504,
+      "offset": 6563,
       "length": 14,
       "value": "\"invalid_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6545,
+      "offset": 6604,
       "length": 24,
       "value": "\"incomplete_card_number\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6598,
+      "offset": 6657,
       "length": 20,
       "value": "\"enter_valid_expiry\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6646,
+      "offset": 6705,
       "length": 25,
       "value": "\"enter_valid_expiry_date\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6710,
+      "offset": 6769,
       "length": 28,
       "value": "\"str_ap_invalid_expiry_date\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6764,
+      "offset": 6823,
       "length": 17,
       "value": "\"enter_valid_cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6804,
+      "offset": 6863,
       "length": 13,
       "value": "\"invalid_cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6838,
+      "offset": 6897,
       "length": 11,
       "value": "\"enter_cvv\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6900,
+      "offset": 6959,
       "length": 40,
       "value": "\"str_ap_could_not_fetch_convenience_fee\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 6972,
+      "offset": 7031,
       "length": 24,
       "value": "\"enter_card_holder_name\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7027,
+      "offset": 7086,
       "length": 23,
       "value": "\"unable_to_verify_card\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7093,
+      "offset": 7152,
       "length": 37,
       "value": "\"unable_to_verify_card_network_error\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7170,
+      "offset": 7229,
       "length": 29,
       "value": "\"str_ap_invalid_expiry_month\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7235,
+      "offset": 7294,
       "length": 25,
       "value": "\"str_ap_card_has_expired\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7299,
+      "offset": 7358,
       "length": 28,
       "value": "\"str_ap_invalid_expiry_year\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7360,
+      "offset": 7419,
       "length": 22,
       "value": "\"str_ap_verify_upi_id\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7439,
+      "offset": 7498,
       "length": 46,
       "value": "\"str_ap_unable_to_verify_upi_moment_try_again\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7525,
+      "offset": 7584,
       "length": 29,
       "value": "\"str_ap_unable_to_verify_upi\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7597,
+      "offset": 7656,
       "length": 32,
       "value": "\"str_ap_unable_to_verify_upi_id\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7664,
+      "offset": 7723,
       "length": 24,
       "value": "\"str_ap_enter_valid_upi\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7726,
+      "offset": 7785,
       "length": 27,
       "value": "\"str_ap_open_preferred_upi\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7810,
+      "offset": 7869,
       "length": 46,
       "value": "\"str_ap_having_trouble_processing_request_now\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7894,
+      "offset": 7953,
       "length": 27,
       "value": "\"str_ap_transaction_failed\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 7967,
+      "offset": 8026,
       "length": 35,
       "value": "\"str_ap_unsupported_payment_method\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8040,
+      "offset": 8099,
       "length": 27,
       "value": "\"str_ap_no_internet_access\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8119,
+      "offset": 8178,
       "length": 41,
       "value": "\"str_ap_service_request_should_not_empty\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8197,
+      "offset": 8256,
       "length": 26,
       "value": "\"str_ap_device_jailbroken\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8260,
+      "offset": 8319,
       "length": 26,
       "value": "\"str_ap_simulator_message\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8319,
+      "offset": 8378,
       "length": 22,
       "value": "\"str_ap_update_needed\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8380,
+      "offset": 8439,
       "length": 28,
       "value": "\"str_ap_unsupported_os_desc\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8447,
+      "offset": 8506,
       "length": 28,
       "value": "\"str_ap_sdk_deprecated_desc\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8515,
+      "offset": 8574,
       "length": 29,
       "value": "\"str_ap_sdk_new_version_desc\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8582,
+      "offset": 8641,
       "length": 20,
       "value": "\"Simulator Detected\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Resources\/Strings\/Localization.swift",
       "kind": "StringLiteral",
-      "offset": 8640,
+      "offset": 8699,
       "length": 20,
       "value": "\"Jailbreak Detected\""
     },
@@ -33392,7 +33406,7 @@
       "kind": "StringLiteral",
       "offset": 467,
       "length": 7,
-      "value": "\"1.1.1\""
+      "value": "\"1.1.2\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
@@ -33439,140 +33453,140 @@
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 1127,
+      "offset": 1120,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 1180,
+      "offset": 1173,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 11838,
+      "offset": 11831,
       "length": 69,
       "value": "\"abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890@-._\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 12586,
+      "offset": 12579,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 12638,
+      "offset": 12631,
       "length": 18,
       "value": "\"Key.ShimmerLayer\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 12683,
+      "offset": 12676,
       "length": 19,
       "value": "\"Key.TemplateLayer\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12786,
+      "offset": 12779,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12790,
+      "offset": 12783,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12802,
+      "offset": 12795,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12806,
+      "offset": 12799,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12817,
+      "offset": 12810,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12821,
+      "offset": 12814,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 12833,
+      "offset": 12826,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12877,
+      "offset": 12870,
       "length": 2,
       "value": "51"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12880,
+      "offset": 12873,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12892,
+      "offset": 12885,
       "length": 2,
       "value": "51"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12895,
+      "offset": 12888,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12906,
+      "offset": 12899,
       "length": 2,
       "value": "51"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 12909,
+      "offset": 12902,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 12921,
+      "offset": 12914,
       "length": 3,
       "value": "1.0"
     },
