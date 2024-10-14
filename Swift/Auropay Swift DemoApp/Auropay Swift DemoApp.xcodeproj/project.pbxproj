@@ -13,7 +13,6 @@
 		75192ADE2A53FD1700A22E55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75192ADC2A53FD1700A22E55 /* Main.storyboard */; };
 		75192AE02A53FD1900A22E55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75192ADF2A53FD1900A22E55 /* Assets.xcassets */; };
 		75192AE32A53FD1900A22E55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75192AE12A53FD1900A22E55 /* LaunchScreen.storyboard */; };
-		7592D0C92C947BA100D99AC8 /* AuroPayPaymentsSandbox in Frameworks */ = {isa = PBXBuildFile; productRef = 7592D0C82C947BA100D99AC8 /* AuroPayPaymentsSandbox */; };
 		FBB428B844B4EF9E45A3CF76 /* Pods_Auropay_Swift_DemoApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89F3B1DF16809EA7E6950415 /* Pods_Auropay_Swift_DemoApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -50,7 +49,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FBB428B844B4EF9E45A3CF76 /* Pods_Auropay_Swift_DemoApp.framework in Frameworks */,
-				7592D0C92C947BA100D99AC8 /* AuroPayPaymentsSandbox in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -126,7 +124,6 @@
 			);
 			name = "Auropay Swift DemoApp";
 			packageProductDependencies = (
-				7592D0C82C947BA100D99AC8 /* AuroPayPaymentsSandbox */,
 			);
 			productName = "Auropay Swift DemoApp";
 			productReference = 75192AD32A53FD1700A22E55 /* Auropay Swift DemoApp.app */;
@@ -157,7 +154,6 @@
 			);
 			mainGroup = 75192ACA2A53FD1700A22E55;
 			packageReferences = (
-				7592D0C72C947BA100D99AC8 /* XCRemoteSwiftPackageReference "Sandbox-Auropay-Payments-SPM" */,
 			);
 			productRefGroup = 75192AD42A53FD1700A22E55 /* Products */;
 			projectDirPath = "";
@@ -472,25 +468,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		7592D0C72C947BA100D99AC8 /* XCRemoteSwiftPackageReference "Sandbox-Auropay-Payments-SPM" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/Auropay/Sandbox-Auropay-Payments-SPM";
-			requirement = {
-				kind = exactVersion;
-				version = 1.1.0;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		7592D0C82C947BA100D99AC8 /* AuroPayPaymentsSandbox */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 7592D0C72C947BA100D99AC8 /* XCRemoteSwiftPackageReference "Sandbox-Auropay-Payments-SPM" */;
-			productName = AuroPayPaymentsSandbox;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 75192ACB2A53FD1700A22E55 /* Project object */;
 }

@@ -63,9 +63,9 @@ class ViewController: UIViewController {
         
         //Initilize the AuropayBuilder with subdomain Id, accessKey and secretKey
         let apb = AuroPayBuilder()
-            .merchantID("sdksingapore")
-            .accessKey("80E1F1D8258208A99A5096076A54F947")
-            .secretKey("6j+uynzmEN8wrr8ScHV+Hhg6nxL1k1G3+FQgoOUStwI=")
+            .merchantID("Your Subdomain ID")
+            .accessKey("Your Access Key")
+            .secretKey("Your Secret Key")
             .customerProfile(self.getCustomerProfile())
             .addEventListener({ eventID, eventMsg in
                 print("EventID:- \(eventID)")
