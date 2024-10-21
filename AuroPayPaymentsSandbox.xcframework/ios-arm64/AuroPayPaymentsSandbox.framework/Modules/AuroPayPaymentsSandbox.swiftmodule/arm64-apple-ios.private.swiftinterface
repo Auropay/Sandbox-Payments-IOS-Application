@@ -32,14 +32,16 @@ infix operator |> : AdditionPrecedence
   @objc public init(primaryColor: UIKit.UIColor, primaryTextColor: UIKit.UIColor, secondaryColor: UIKit.UIColor, secondaryTextColor: UIKit.UIColor)
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers final public class Auropay : ObjectiveC.NSObject {
+@objc @_inheritsConvenienceInitializers @available(iOS 13.0, *)
+final public class Auropay : ObjectiveC.NSObject {
   @objc final public func doPayment(displayViewController: UIKit.UIViewController, amount: Swift.Double, andDelegate delegate: any AuroPayPaymentsSandbox.APPaymentCompletionProtocol, referenceNumber: Swift.String? = nil, askCustomerDetails: Swift.Bool = false)
   @objc final public func doPayment(displayViewController: UIKit.UIViewController, amount: Swift.Double, andDelegateWithData delegate: any AuroPayPaymentsSandbox.APPaymentCompletionProtocolWithData, referenceNumber: Swift.String? = nil, askCustomerDetails: Swift.Bool = false)
   @objc override dynamic public init()
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers final public class AuroPayBuilder : ObjectiveC.NSObject {
-  @objc final public func merchantID(_ merchantID: Swift.String) -> AuroPayPaymentsSandbox.AuroPayBuilder
+@objc @_inheritsConvenienceInitializers @available(iOS 13.0, *)
+final public class AuroPayBuilder : ObjectiveC.NSObject {
+  @objc final public func subDomainId(_ merchantID: Swift.String) -> AuroPayPaymentsSandbox.AuroPayBuilder
   @objc final public func accessKey(_ accessKey: Swift.String) -> AuroPayPaymentsSandbox.AuroPayBuilder
   @objc final public func secretKey(_ secretKey: Swift.String) -> AuroPayPaymentsSandbox.AuroPayBuilder
   @objc final public func customerProfile(_ customerProfile: AuroPayPaymentsSandbox.CustomerProfile) -> AuroPayPaymentsSandbox.AuroPayBuilder
@@ -52,21 +54,26 @@ infix operator |> : AdditionPrecedence
   @objc override dynamic public init()
   @objc deinit
 }
+@available(iOS 13.0, *)
 @objc public protocol APPaymentCompletionProtocol : AuroPayPaymentsSandbox.AuroPayPaymentResultProtocol {
   @objc func onPaymentSuccess(_ orderId: Swift.String, transactionStatus: Swift.Int, transactionId: Swift.String)
   @objc func onPaymentError(_ message: Swift.String)
 }
+@available(iOS 13.0, *)
 @objc public protocol APPaymentCompletionProtocolWithData : AuroPayPaymentsSandbox.AuroPayPaymentResultProtocol {
   @objc func onPaymentSuccess(_ paymentData: AuroPayPaymentsSandbox.PaymentResultData)
   @objc func onPaymentError(_ message: Swift.String, _ paymentData: AuroPayPaymentsSandbox.PaymentResultData?)
 }
+@available(iOS 13.0, *)
 @objc public protocol AuroPayPaymentResultProtocol {
 }
-@objc final public class CustomerProfile : ObjectiveC.NSObject {
+@objc @available(iOS 13.0, *)
+final public class CustomerProfile : ObjectiveC.NSObject {
   @objc public init(title: Swift.String, firstName: Swift.String, middleName: Swift.String, lastName: Swift.String, phone: Swift.String, email: Swift.String)
   @objc deinit
 }
-@objc final public class PaymentResultData : ObjectiveC.NSObject {
+@objc @available(iOS 13.0, *)
+final public class PaymentResultData : ObjectiveC.NSObject {
   @objc final public var orderId: Swift.String
   @objc final public var transactionStatus: Swift.Int
   @objc final public var transactionId: Swift.String

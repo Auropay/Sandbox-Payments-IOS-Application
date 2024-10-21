@@ -300,14 +300,13 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
-SWIFT_PROTOCOL("_TtP22AuroPayPaymentsSandbox28AuroPayPaymentResultProtocol_")
+SWIFT_PROTOCOL("_TtP22AuroPayPaymentsSandbox28AuroPayPaymentResultProtocol_") SWIFT_AVAILABILITY(ios,introduced=13.0)
 @protocol AuroPayPaymentResultProtocol
 @end
 
 @class NSString;
 
-/// Protocols
-SWIFT_PROTOCOL("_TtP22AuroPayPaymentsSandbox27APPaymentCompletionProtocol_")
+SWIFT_PROTOCOL("_TtP22AuroPayPaymentsSandbox27APPaymentCompletionProtocol_") SWIFT_AVAILABILITY(ios,introduced=13.0)
 @protocol APPaymentCompletionProtocol <AuroPayPaymentResultProtocol>
 - (void)onPaymentSuccess:(NSString * _Nonnull)orderId transactionStatus:(NSInteger)transactionStatus transactionId:(NSString * _Nonnull)transactionId;
 - (void)onPaymentError:(NSString * _Nonnull)message;
@@ -315,7 +314,7 @@ SWIFT_PROTOCOL("_TtP22AuroPayPaymentsSandbox27APPaymentCompletionProtocol_")
 
 @class PaymentResultData;
 
-SWIFT_PROTOCOL("_TtP22AuroPayPaymentsSandbox35APPaymentCompletionProtocolWithData_")
+SWIFT_PROTOCOL("_TtP22AuroPayPaymentsSandbox35APPaymentCompletionProtocolWithData_") SWIFT_AVAILABILITY(ios,introduced=13.0)
 @protocol APPaymentCompletionProtocolWithData <AuroPayPaymentResultProtocol>
 - (void)onPaymentSuccess:(PaymentResultData * _Nonnull)paymentData;
 - (void)onPaymentError:(NSString * _Nonnull)message :(PaymentResultData * _Nullable)paymentData;
@@ -334,9 +333,9 @@ SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox7APTheme")
 enum Country : NSInteger;
 @class Auropay;
 
-SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox14AuroPayBuilder")
+SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox14AuroPayBuilder") SWIFT_AVAILABILITY(ios,introduced=13.0)
 @interface AuroPayBuilder : NSObject
-- (AuroPayBuilder * _Nonnull)merchantID:(NSString * _Nonnull)merchantID SWIFT_WARN_UNUSED_RESULT;
+- (AuroPayBuilder * _Nonnull)subDomainId:(NSString * _Nonnull)merchantID SWIFT_WARN_UNUSED_RESULT;
 - (AuroPayBuilder * _Nonnull)accessKey:(NSString * _Nonnull)accessKey SWIFT_WARN_UNUSED_RESULT;
 - (AuroPayBuilder * _Nonnull)secretKey:(NSString * _Nonnull)secretKey SWIFT_WARN_UNUSED_RESULT;
 - (AuroPayBuilder * _Nonnull)customerProfile:(CustomerProfile * _Nonnull)customerProfile SWIFT_WARN_UNUSED_RESULT;
@@ -352,7 +351,7 @@ SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox14AuroPayBuilder")
 
 @class UIViewController;
 
-SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox7Auropay")
+SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox7Auropay") SWIFT_AVAILABILITY(ios,introduced=13.0)
 @interface Auropay : NSObject
 /// doPayment with APPaymentCompletionProtocol
 - (void)doPaymentWithDisplayViewController:(UIViewController * _Nonnull)displayViewController amount:(double)amount andDelegate:(id <APPaymentCompletionProtocol> _Nonnull)delegate referenceNumber:(NSString * _Nullable)referenceNumber askCustomerDetails:(BOOL)askCustomerDetails;
@@ -390,8 +389,7 @@ typedef SWIFT_ENUM(NSInteger, Country, open) {
 };
 
 
-/// Customer Profile
-SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox15CustomerProfile")
+SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox15CustomerProfile") SWIFT_AVAILABILITY(ios,introduced=13.0)
 @interface CustomerProfile : NSObject
 - (nonnull instancetype)initWithTitle:(NSString * _Nonnull)title firstName:(NSString * _Nonnull)firstName middleName:(NSString * _Nonnull)middleName lastName:(NSString * _Nonnull)lastName phone:(NSString * _Nonnull)phone email:(NSString * _Nonnull)email OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
@@ -406,8 +404,7 @@ SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox15CustomerProfile")
 
 
 
-/// PaymentResultData for APPaymentCompletionProtocolWithData
-SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox17PaymentResultData")
+SWIFT_CLASS("_TtC22AuroPayPaymentsSandbox17PaymentResultData") SWIFT_AVAILABILITY(ios,introduced=13.0)
 @interface PaymentResultData : NSObject
 @property (nonatomic, copy) NSString * _Nonnull orderId;
 @property (nonatomic) NSInteger transactionStatus;

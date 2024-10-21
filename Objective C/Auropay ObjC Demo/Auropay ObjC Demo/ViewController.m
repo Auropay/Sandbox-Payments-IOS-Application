@@ -57,17 +57,17 @@
     
     //Initilize the AuropayBuilder with subdomain Id, accessKey and secretKey
     Auropay * apb = [[[[[[[[[[AuroPayBuilder alloc]
-                            merchantID:@"Your Subdomain ID"]
-                            accessKey:@"Your Access Key"]
-                            secretKey:@"Your Secret Key"]
-                            customerProfile:[self getCustomerProfile]]
-                            addEventListener:^(NSString* eventID, NSString* eventDesc) {
-                            NSLog(@"%@", [NSString stringWithFormat:@"eventID: %@, eventDesc: %@", eventID, eventDesc]);
-                            }]
-                            theme:theme]
-                            showReceipt:YES]
-                            allowCardScan:YES]
-                            build];
+                             subDomainId:@"Your Subdomain ID"]
+                             accessKey:@"Your Access Key"]
+                             secretKey:@"Your Secret Key"]
+                             customerProfile:[self getCustomerProfile]]
+                             addEventListener:^(NSString* eventID, NSString* eventDesc) {
+                             NSLog(@"%@", [NSString stringWithFormat:@"eventID: %@, eventDesc: %@", eventID, eventDesc]);
+                             }]
+                             theme:theme]
+                             showReceipt:YES]
+                             allowCardScan:YES]
+                             build];
 
     //Initiate payment
     if (_textFieldAmount.text && _textFieldAmount.text.length > 0){
