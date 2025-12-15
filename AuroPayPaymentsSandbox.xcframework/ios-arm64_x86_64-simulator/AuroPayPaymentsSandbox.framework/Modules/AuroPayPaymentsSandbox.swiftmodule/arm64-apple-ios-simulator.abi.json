@@ -267,16 +267,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Accelerate",
         "printedName": "Accelerate",
         "declKind": "Import",
@@ -312,16 +302,6 @@
         "printedName": "MobileCoreServices",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -760,16 +740,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1065,16 +1035,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1142,30 +1102,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox"
-      },
-      {
-        "kind": "Import",
-        "name": "QuartzCore",
-        "printedName": "QuartzCore",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox"
       },
       {
         "kind": "Import",
@@ -1257,38 +1193,8 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "QuartzCore",
         "printedName": "QuartzCore",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox",
         "declAttributes": [
@@ -1483,16 +1389,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox",
         "declAttributes": [
@@ -1766,16 +1662,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox",
         "declAttributes": [
@@ -2137,16 +2023,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "QuartzCore",
         "printedName": "QuartzCore",
         "declKind": "Import",
@@ -2283,16 +2159,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox",
         "declAttributes": [
@@ -2989,16 +2855,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox",
         "declAttributes": [
@@ -5621,16 +5477,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "CoreGraphics",
         "printedName": "CoreGraphics",
         "declKind": "Import",
@@ -5951,46 +5797,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -6479,16 +6285,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "CoreGraphics",
         "printedName": "CoreGraphics",
         "declKind": "Import",
@@ -6602,26 +6398,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox",
         "declAttributes": [
@@ -6721,16 +6497,6 @@
         "kind": "Import",
         "name": "QuartzCore",
         "printedName": "QuartzCore",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox",
         "declAttributes": [
@@ -7267,16 +7033,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -7291,16 +7047,6 @@
         "printedName": "CoreGraphics",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -7560,16 +7306,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -7587,28 +7323,8 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox",
         "declAttributes": [
@@ -7799,16 +7515,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -8011,16 +7717,6 @@
         "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "AuroPayPaymentsSandbox"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AuroPayPaymentsSandbox",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -9030,111 +8726,6 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "UIView",
-        "printedName": "UIView",
-        "declKind": "Class",
-        "usr": "c:objc(cs)UIView",
-        "moduleName": "UIKit",
-        "isOpen": true,
-        "intro_iOS": "2.0",
-        "objc_name": "UIView",
-        "declAttributes": [
-          "Preconcurrency",
-          "Available",
-          "ObjC",
-          "NonSendable",
-          "Custom",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)UIResponder",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
         "name": "Array",
         "printedName": "Array",
         "declKind": "Struct",
@@ -9996,13 +9587,6 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "BitwiseCopyable",
-            "printedName": "BitwiseCopyable",
-            "usr": "s:s15BitwiseCopyableP",
-            "mangledName": "$ss15BitwiseCopyableP"
           },
           {
             "kind": "Conformance",
@@ -13362,148 +12946,6 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "UIViewController",
-        "printedName": "UIViewController",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "iq_parentContainerViewController",
-            "printedName": "iq_parentContainerViewController()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIViewController?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIViewController",
-                    "printedName": "UIKit.UIViewController",
-                    "usr": "c:objc(cs)UIViewController"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@AuroPayPaymentsSandbox@@objc(cs)UIViewController(im)iq_parentContainerViewController",
-            "mangledName": "$sSo16UIViewControllerC22AuroPayPaymentsSandboxE022iq_parentContainerViewB0ABSgyF",
-            "moduleName": "AuroPayPaymentsSandbox",
-            "isOpen": true,
-            "declAttributes": [
-              "Dynamic",
-              "Custom",
-              "AccessControl",
-              "RawDocComment",
-              "ObjC"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:objc(cs)UIViewController",
-        "moduleName": "UIKit",
-        "isOpen": true,
-        "intro_iOS": "2.0",
-        "objc_name": "UIViewController",
-        "declAttributes": [
-          "Preconcurrency",
-          "Available",
-          "ObjC",
-          "NonSendable",
-          "Custom",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)UIResponder",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
         "name": "NSTextAttachment",
         "printedName": "NSTextAttachment",
         "declKind": "Class",
@@ -14162,48 +13604,6 @@
       "value": "0"
     },
     {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Constants\/APIQKeyboardManagerConstants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1700,
-      "length": 5,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Constants\/APIQKeyboardManagerConstants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1715,
-      "length": 10,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Constants\/APIQKeyboardManagerConstants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2232,
-      "length": 10,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Constants\/APIQKeyboardManagerConstants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2252,
-      "length": 10,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Constants\/APIQKeyboardManagerConstants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2525,
-      "length": 7,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Constants\/APIQKeyboardManagerConstants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2542,
-      "length": 8,
-      "value": "2"
-    },
-    {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "BooleanLiteral",
       "offset": 163,
@@ -14219,176 +13619,169 @@
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 823,
-      "length": 4,
-      "value": "44.0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1509,
+      "offset": 1511,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1581,
+      "offset": 1583,
       "length": 2,
-      "value": "19"
+      "value": "18"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1834,
+      "offset": 1836,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1871,
+      "offset": 1873,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2141,
+      "offset": 2143,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2399,
+      "offset": 2401,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2715,
+      "offset": 2717,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 2967,
+      "offset": 2969,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3020,
+      "offset": 3022,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3031,
+      "offset": 3033,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 3094,
+      "offset": 3096,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "FloatLiteral",
-      "offset": 3108,
+      "offset": 3110,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3122,
+      "offset": 3124,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3743,
+      "offset": 3745,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3754,
+      "offset": 3756,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3787,
+      "offset": 3789,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3793,
+      "offset": 3795,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3803,
+      "offset": 3805,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3976,
+      "offset": 3978,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 4029,
+      "offset": 4031,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 4080,
+      "offset": 4082,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "StringLiteral",
-      "offset": 4332,
+      "offset": 4334,
       "length": 9,
       "value": "\"#666666\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 4471,
+      "offset": 4473,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 4492,
+      "offset": 4494,
       "length": 2,
       "value": "14"
     },
@@ -14556,7 +13949,7 @@
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/APBottomSheetCard+Extension.swift",
       "kind": "BooleanLiteral",
-      "offset": 2628,
+      "offset": 2665,
       "length": 4,
       "value": "true"
     },
@@ -16319,78 +15712,64 @@
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 916,
-      "length": 4,
-      "value": "92.0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
-      "kind": "FloatLiteral",
-      "offset": 923,
-      "length": 4,
-      "value": "60.0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1177,
+      "offset": 1179,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1258,
+      "offset": 1260,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1350,
+      "offset": 1352,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1402,
+      "offset": 1404,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
       "kind": "StringLiteral",
-      "offset": 1417,
+      "offset": 1419,
       "length": 29,
       "value": "\"allowFileAccessFromFileURLs\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1482,
+      "offset": 1484,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
       "kind": "StringLiteral",
-      "offset": 1497,
+      "offset": 1499,
       "length": 34,
       "value": "\"allowUniversalAccessFromFileURLs\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1796,
+      "offset": 1798,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/WebViewScene\/APWebViewVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1856,
+      "offset": 1858,
       "length": 5,
       "value": "false"
     },
@@ -16976,41 +16355,6 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager+Position.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1452,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager+Position.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1501,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager+Position.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1557,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager+Position.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1615,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager+Position.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1663,
-      "length": 1,
-      "value": "0"
-    },
-    {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Lottie\/Private\/MainThread\/NodeRenderSystem\/NodeProperties\/ValueProviders\/SingleValueProvider.swift",
       "kind": "BooleanLiteral",
       "offset": 410,
@@ -17403,181 +16747,6 @@
       "value": "\"y\""
     },
     {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2529,
-      "length": 9,
-      "value": "\"Enabled\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2673,
-      "length": 10,
-      "value": "\"Disabled\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2162,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 2874,
-      "length": 4,
-      "value": "10.0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3110,
-      "length": 56,
-      "value": "\"enableAutoToolbar: \""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3152,
-      "length": 5,
-      "value": "\"Yes\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3160,
-      "length": 4,
-      "value": "\"NO\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3165,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3032,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3886,
-      "length": 62,
-      "value": "\"resignOnTouchOutside: \""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3934,
-      "length": 5,
-      "value": "\"Yes\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3942,
-      "length": 4,
-      "value": "\"NO\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3947,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3757,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4395,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5444,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5656,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "Array",
-      "offset": 5997,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "Array",
-      "offset": 6415,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "Array",
-      "offset": 6709,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "Array",
-      "offset": 7103,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "Array",
-      "offset": 7372,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "Array",
-      "offset": 7569,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "Array",
-      "offset": 7898,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager.swift",
-      "kind": "Array",
-      "offset": 8209,
-      "length": 2,
-      "value": "[]"
-    },
-    {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CardBottomSheet\/CardScanner\/CardScan\/PixelBufferStream.swift",
       "kind": "BooleanLiteral",
       "offset": 846,
@@ -17667,27 +16836,6 @@
       "offset": 583,
       "length": 4,
       "value": "\"dr\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager+Debug.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1480,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager+Debug.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1920,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager+Debug.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2006,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/UITableViewCell\/SaveCard Cell\/SaveCardTableViewCell.swift",
@@ -18255,34 +17403,6 @@
       "offset": 1204,
       "length": 4,
       "value": "\"mm\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Categories\/APIQUITextFieldView+Additions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1464,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Categories\/APIQUITextFieldView+Additions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1518,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Categories\/APIQUITextFieldView+Additions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1553,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Categories\/APIQUITextFieldView+Additions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1602,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/MoreBottomSheet\/APBottomSheetViewAll.swift",
@@ -19288,7 +18408,7 @@
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/Home\/APHomeViewModel+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 27648,
+      "offset": 26991,
       "length": 1,
       "value": "0"
     },
@@ -19305,13 +18425,6 @@
       "offset": 1220,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/LIsteners\/Info\/APIQTextFieldViewInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1565,
-      "length": 10,
-      "value": "1"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Lottie\/Private\/MainThread\/NodeRenderSystem\/Nodes\/ModifierNodes\/RoundedCornersNode.swift",
@@ -19858,27 +18971,6 @@
       "offset": 4131,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Configuration\/APIQActiveConfiguration.swift",
-      "kind": "Dictionary",
-      "offset": 1583,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Configuration\/APIQActiveConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1647,
-      "length": 4,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Configuration\/APIQActiveConfiguration.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1665,
-      "length": 6,
-      "value": "2"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/PaymentReceipt\/Failure Receipt\/APPaymentFailureReceiptVC.swift",
@@ -22527,69 +21619,6 @@
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/LIsteners\/Info\/APIQKeyboardInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1486,
-      "length": 7,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/LIsteners\/Info\/APIQKeyboardInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1507,
-      "length": 8,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/LIsteners\/Info\/APIQKeyboardInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1529,
-      "length": 7,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/LIsteners\/Info\/APIQKeyboardInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1550,
-      "length": 15,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/LIsteners\/Info\/APIQKeyboardInfo.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1579,
-      "length": 14,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Categories\/APIQUIScrollView+Additions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1413,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Categories\/APIQUIScrollView+Additions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1466,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Categories\/APIQUIScrollView+Additions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1511,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardManager+UITextFieldViewNotification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1548,
-      "length": 1,
-      "value": "0"
-    },
-    {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Lottie\/Private\/MainThread\/LayerContainers\/CompLayers\/CompositionLayer.swift",
       "kind": "IntegerLiteral",
       "offset": 2737,
@@ -24389,34 +23418,6 @@
       "value": "8"
     },
     {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQTextView\/APIQTextView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3423,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQTextView\/APIQTextView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3590,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQTextView\/APIQTextView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3668,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQTextView\/APIQTextView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5540,
-      "length": 2,
-      "value": "12"
-    },
-    {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/Extensions\/UILabel+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 239,
@@ -24606,13 +23607,6 @@
       "value": "true"
     },
     {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/LIsteners\/APIQTextFieldViewListener.swift",
-      "kind": "Dictionary",
-      "offset": 1402,
-      "length": 3,
-      "value": "[]"
-    },
-    {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Lottie\/Private\/Model\/ShapeItems\/Shape.swift",
       "kind": "StringLiteral",
       "offset": 1474,
@@ -24658,13 +23652,6 @@
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/UIComponents\/UIBuilders\/AttributedStringDictionaryBuilder.swift",
       "kind": "Dictionary",
       "offset": 252,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/LIsteners\/APIQKeyboardListener.swift",
-      "kind": "Dictionary",
-      "offset": 1374,
       "length": 3,
       "value": "[]"
     },
@@ -27504,13 +26491,6 @@
       "value": "\"v\""
     },
     {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/APIQKeyboardReturnKeyHandler.swift",
-      "kind": "Array",
-      "offset": 2581,
-      "length": 2,
-      "value": "[]"
-    },
-    {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Kingfisher\/Sources\/Image\/GIFAnimatedImage.swift",
       "kind": "FloatLiteral",
       "offset": 1545,
@@ -27535,13 +26515,6 @@
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Kingfisher\/Sources\/Image\/GIFAnimatedImage.swift",
       "kind": "BooleanLiteral",
       "offset": 1653,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Configuration\/APIQKeyboardConfiguration.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1479,
       "length": 5,
       "value": "false"
     },
@@ -27849,42 +26822,42 @@
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CustomerProfileBottomSheet\/APCustomerProfileBottomSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 1590,
+      "offset": 1635,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CustomerProfileBottomSheet\/APCustomerProfileBottomSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 2093,
+      "offset": 2138,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CustomerProfileBottomSheet\/APCustomerProfileBottomSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 2164,
+      "offset": 2209,
       "length": 3,
       "value": "-33"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CustomerProfileBottomSheet\/APCustomerProfileBottomSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 2175,
+      "offset": 2220,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CustomerProfileBottomSheet\/APCustomerProfileBottomSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 2186,
+      "offset": 2231,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Scenes\/BottomSheetViews\/CustomerProfileBottomSheet\/APCustomerProfileBottomSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 2196,
+      "offset": 2241,
       "length": 1,
       "value": "0"
     },
@@ -28946,13 +27919,6 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/APIQKeyboardManagerSwift\/Configuration\/APIQToolbarConfiguration.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1517,
-      "length": 5,
-      "value": "false"
-    },
-    {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Kingfisher\/Sources\/Cache\/MemoryStorage.swift",
       "kind": "IntegerLiteral",
       "offset": 7452,
@@ -29027,14 +27993,14 @@
       "kind": "StringLiteral",
       "offset": 468,
       "length": 7,
-      "value": "\"1.2.1\""
+      "value": "\"1.2.2\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 512,
       "length": 7,
-      "value": "\"1.2.0\""
+      "value": "\"1.2.2\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
@@ -29143,134 +28109,120 @@
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 12620,
-      "length": 12,
-      "value": "\"Freecharge\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 12663,
-      "length": 15,
-      "value": "\"freecharge:\/\/\""
-    },
-    {
-      "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 13677,
+      "offset": 13679,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 13729,
+      "offset": 13731,
       "length": 18,
       "value": "\"Key.ShimmerLayer\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 13774,
+      "offset": 13776,
       "length": 19,
       "value": "\"Key.TemplateLayer\""
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13877,
+      "offset": 13879,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13881,
+      "offset": 13883,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13893,
+      "offset": 13895,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13897,
+      "offset": 13899,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13908,
+      "offset": 13910,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13912,
+      "offset": 13914,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 13924,
+      "offset": 13926,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13968,
+      "offset": 13970,
       "length": 2,
       "value": "51"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13971,
+      "offset": 13973,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13983,
+      "offset": 13985,
       "length": 2,
       "value": "51"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13986,
+      "offset": 13988,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 13997,
+      "offset": 13999,
       "length": 2,
       "value": "51"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 14000,
+      "offset": 14002,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/prithkothadiya\/Documents\/Aurionpro\/AuroPay SDK\/IOS-SDK\/AuroPay\/AuroPay\/Utilities\/Constant\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 14012,
+      "offset": 14014,
       "length": 3,
       "value": "1.0"
     },
